@@ -8,7 +8,7 @@
 
 I am a **Full-Stack Developer** and **UI Enthusiast** currently pursuing my B.Tech in Computer Science at **BPIT (GGSIPU)**. 
 
-My work sits at the intersection of logic and creativity. I love crafting robust backend architectures with **Node.js** while ensuring pixel-perfect user experiences using **React** and **Figma**. Beyond web development, I am actively exploring the frontiers of **Artificial Intelligence** and **Cloud Computing** to build smarter, scalable applications.
+My work sits at the intersection of logic and creativity. I love crafting robust backend architectures with **Node.js** while ensuring pixel-perfect user experiences using **React**. Beyond web development, I am actively exploring the frontiers of **Artificial Intelligence** and **Cloud Computing** to build smarter, scalable applications.
 
 <br/>
 
