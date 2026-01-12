@@ -1,34 +1,45 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is MADHAV KALRA
+<div align="center">
 
-### Computer Science Explorer | Code. Learn. UI Design. Build.
+# Hello, I'm Madhav Kalra 👋
 
-I'm a 3rd-year B.Tech CSE student at **BPIT, GGSIPU**, passionate about building clean and responsive web applications. Skilled in **React.js, Node.js**, and backend development, with a keen eye for **UI Designing**.
+### Architecting Code | Designing Interfaces | Solving Problems
 
-Proficient in **C++, Java, and Python** with a strong grasp of **DSA**. I have a growing interest in **AI/ML and Cloud Computing**, constantly exploring how to integrate intelligence into software solutions.
+<br/>
 
-I focus on writing clean, efficient code and continuously learning to stay updated with modern development practices.
+I am a **Full-Stack Developer** and **UI Enthusiast** currently pursuing my B.Tech in Computer Science at **BPIT (GGSIPU)**. 
 
-- 🌍  I'm based in **India**
-- ✉️  You can contact me at [madhavkalra456@gmail.com](mailto:madhavkalra456@gmail.com)
-- 🧠  Deepening my knowledge in **AI, Machine Learning, and Cloud Architecture**
-- 🤝  I'm open to collaborating on **Full-Stack projects & Hackathons**
+My work sits at the intersection of logic and creativity. I love crafting robust backend architectures with **Node.js** while ensuring pixel-perfect user experiences using **React** and **Figma**. Beyond web development, I am actively exploring the frontiers of **Artificial Intelligence** and **Cloud Computing** to build smarter, scalable applications.
 
-### Skills
+<br/>
 
-<p align="left">
+🌱 **Currently Exploring:** Advanced Data Structures, Machine Learning Algorithms, and Cloud Deployment.
+
+🔭 **Open to:** Hackathons, Full-Stack Collaborations, and Open Source contributions.
+
+📫 **Reach me at:** [madhavkalra456@gmail.com](mailto:madhavkalra456@gmail.com)
+
+<br/>
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,java,cpp,python,html,css,js,git,github,vscode,figma&perline=12" />
   </a>
 </p>
 
-### Socials
+<br/>
 
-<p align="left">
-<a href="https://github.com/madhavkalra">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Madhav7871">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/madhav-kalra/">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/madhav-kalra-807252242/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
+
+</div>
