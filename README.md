@@ -7,7 +7,7 @@
 <br><br>
 
 <!-- Replace the link below with your chosen GIF URL -->
-<img src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng1anE2a254bThtdzdxYTRpcmZld243eWF1N3Z1YmF5NDV5cjAwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)" alt="Coding Animation" width="650" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng1anE2a254bThtdzdxYTRpcmZld243eWF1N3Z1YmF5NDV5cjAwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Coding Animation" width="650" />
 
 <br><br>
 
