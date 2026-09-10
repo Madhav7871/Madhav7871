@@ -48,7 +48,9 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Madhav7871/Madhav7871/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -56,7 +58,7 @@
   <a href="https://www.linkedin.com/in/madhav-kalra-807252242/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="madhavkalra456@gmail.com" target="_blank">
+  <a href="mailto:madhavkalra456@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/@me/947771031593029657" target="_blank">
@@ -69,5 +71,3 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
